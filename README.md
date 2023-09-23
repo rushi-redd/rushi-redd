@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rushikesh peddawad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rushikesh Peddawad</h1>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
